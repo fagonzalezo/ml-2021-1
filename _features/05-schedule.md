@@ -17,6 +17,7 @@ image:
 			<td>Feb 23</td>
 			<td>1.1 Introduction</td>
 			<td>
+				<a href= "https://drive.google.com/file/d/1nZ25mVOFvWkLwvqVL8Wpf0xQR-vWNFV0/view?usp=sharing">Class video 23/02/2021</a><br>
 				Brief Introduction to ML (<a href= "https://fagonzalezo.github.io/ml-2018-1/introduction_ml.pdf">slides</a>)<br>
 				<a href= "http://videolectures.net/bootcamp07_keller_bss/">Linear Algebra and Probability Review</a> (part 1 Linear Algebra, part 2 Probability)
 			</td>
