@@ -20,7 +20,7 @@ image:
 				<a href= "https://drive.google.com/file/d/1nZ25mVOFvWkLwvqVL8Wpf0xQR-vWNFV0/view?usp=sharing">Class video 23/02/2021</a><br>
 				<a href= "https://drive.google.com/file/d/1F_-FxUdhE7zioW1awuvu15BX_x16BtZV/view?usp=sharing">Class video 25/02/2021</a><br>
 				<a href= "https://drive.google.com/file/d/15cHrAneUhEJpX-iHEophkfLiRuSavU9t/view?usp=sharing">Class video 02/03/2021</a><br>
-				Brief Introduction to ML (<a href= "introduction ml.pdf">slides</a>)<br>
+				Fabio González, Brief Introduction to ML (<a href= "introduction ml.pdf">slides</a>)<br>
 				<a href= "http://videolectures.net/bootcamp07_keller_bss/">Linear Algebra and Probability Review</a> (part 1 Linear Algebra, part 2 Probability)
 			</td>
 			<td>
