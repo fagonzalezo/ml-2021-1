@@ -14,11 +14,13 @@ image:
 			<th>Assignments</th>
 		</tr>
 		<tr>
-			<td>Feb 23</td>
+			<td>Feb 23-Mar 2</td>
 			<td>1.1 Introduction</td>
 			<td>
 				<a href= "https://drive.google.com/file/d/1nZ25mVOFvWkLwvqVL8Wpf0xQR-vWNFV0/view?usp=sharing">Class video 23/02/2021</a><br>
-				Brief Introduction to ML (<a href= "https://fagonzalezo.github.io/ml-2018-1/introduction_ml.pdf">slides</a>)<br>
+				<a href= "https://drive.google.com/file/d/1F_-FxUdhE7zioW1awuvu15BX_x16BtZV/view?usp=sharing">Class video 25/02/2021</a><br>
+				<a href= "https://drive.google.com/file/d/15cHrAneUhEJpX-iHEophkfLiRuSavU9t/view?usp=sharing">Class video 02/03/2021</a><br>
+				Brief Introduction to ML (<a href= "https://fagonzalezo.github.io/ml-2021-1/introduction_ml.pdf">slides</a>)<br>
 				<a href= "http://videolectures.net/bootcamp07_keller_bss/">Linear Algebra and Probability Review</a> (part 1 Linear Algebra, part 2 Probability)
 			</td>
 			<td>
@@ -26,7 +28,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Mar 2-9</td>
+			<td>Mar 9</td>
 			<td>1.2 Bayesian decision theory</td>
 			<td>
 				[Alp14] Chap 3 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap3.pdf">slides</a>) <br>
