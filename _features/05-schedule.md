@@ -32,9 +32,12 @@ image:
 			<td>Mar 9</td>
 			<td>1.2 Bayesian decision theory</td>
 			<td>
-				[Alp14] Chap 3 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap3.pdf">slides</a>) <br>
+				Class videos (<a href= "https://drive.google.com/file/d/16WxxLNWdoJ6Elaryr5bVn1zn8L5Ud1u7/view?usp=sharing">part 1</a>)
+				(<a href= "https://drive.google.com/open?id=1q6uubSfsCtuDATCuuIdqWSZCmxwn657f">part 2</a>)<br>
+				[Alp14] Chap 3 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap3.pdf">slides</a>) (<a href= "https://drive.google.com/file/d/1q5KSTW6WiJjcWMLEOrvRys2WTD7HneWh/view?usp=sharing">annotated slides</a>)<br>
 			</td>
 			<td>
+				<a href= "problems1.pdf">Practice problems 1</a>
 			</td>
 		</tr>
 		<tr>
