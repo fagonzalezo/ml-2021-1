@@ -45,7 +45,7 @@ image:
 			<td>1.3 Estimation</td>
 			<td>
 				Class videos 
-				(<a href= "https://drive.google.com/open?id=1q6uubSfsCtuDATCuuIdqWSZCmxwn657f?t=2964">part 1</a>)
+				(<a href= "https://drive.google.com/file/d/1q6uubSfsCtuDATCuuIdqWSZCmxwn657f/view?t=2964">part 1</a>)
 				(<a href= "https://drive.google.com/file/d/1myrajgABC6pbuw-CXFH2lIQIBVNVLFfn/view">part 2</a>)<br>
 				[Alp10] Chap 4, 5 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
 				Bias and variance (<a href= "https://colab.research.google.com/drive/12Oo06Ge2ly-9WI3ifj2t9HyZJrioLoy7?usp=sharing">Jupyter notebook</a>)<br>
