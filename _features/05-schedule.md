@@ -47,7 +47,7 @@ image:
 				Class videos 
 				(<a href= "https://drive.google.com/file/d/1q6uubSfsCtuDATCuuIdqWSZCmxwn657f/view?t=2964">part 1</a>)
 				(<a href= "https://drive.google.com/file/d/1myrajgABC6pbuw-CXFH2lIQIBVNVLFfn/view">part 2</a>)<br>
-				[Alp10] Chap 4, 5 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
+				[Alp14] Chap 4, 5 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
 				Bias and variance (<a href= "https://colab.research.google.com/drive/12Oo06Ge2ly-9WI3ifj2t9HyZJrioLoy7?usp=sharing">Jupyter notebook</a>)<br>
 			</td>
 			<td>
@@ -63,7 +63,7 @@ image:
 				Class videos 
 				(<a href= "https://drive.google.com/file/d/1fS3b65nWyouvrv1nAULMwiXV8ZLUuAfY/view?t=46">part 1</a>)
 				(<a href= "https://drive.google.com/file/d/1rroI1opT9lTSRoFBDW6Gmxpvl3Z75EUc/view?t=35">part 2</a>)<br>
-				[Alp10] Chap 19 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap19-v1-0.pdf">slides</a>) <br>
+				[Alp14] Chap 19 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap19.pdf">slides</a>) <br>
 				Additional video: Hypothesis testing (<a href= "https://drive.google.com/file/d/1TKRL34XTRSx2d6kFcVyacGb01eSJrdiX/view?t=57">video</a>)
 			</td>
 			<td>
@@ -75,7 +75,7 @@ image:
 			<td>2.1 Kernel methods basics</td>
 			<td>
 				Introduction to kernel methods (<a href= "https://fagonzalezo.github.io/ml-2016-2/kernels.pdf">slides</a>) <br>
-				[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
+				[Alp14] Chap 13 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap13.pdf">slides</a>)<br>
 			</td>
 			<td>
 			</td>
@@ -84,7 +84,7 @@ image:
 			<td>Apr 13-20</td>
 			<td>2.2 Support vector learning</td>
 			<td>
-				[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
+				[Alp14] Chap 13 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap13.pdf">slides</a>)<br>
 				<a href="http://axiom.anu.edu.au/%7Edaa/courses/GSAC6017/tekbac_4.pdf">An
 					introduction to ML</a>, Smola <br>
 				<a href="http://www1.cs.columbia.edu/%7Ekathy/cs4701/documents/jason_svm_tutorial.pdf">Support
@@ -98,7 +98,7 @@ image:
 			<td>Apr 27</td>
 			<td>3.1 Neural network basics </td>
 			<td>
-				[Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
+				[Alp14] Chap 11 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap11.pdf">slides</a>)<br>
 				Quick and dirty introduction to neural networks (<a href= "https://gist.github.com/fagonzalezo/c1f56629890dcf5670aa">Jupyter notebook</a>)<br>
 				<a href= "https://fagonzalezo.github.io/ml-2018-1/backpropagation.pdf">Backpropagation derivation handout</a>
 			</td>
