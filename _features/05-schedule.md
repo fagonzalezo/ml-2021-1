@@ -60,9 +60,14 @@ image:
 			</td>
 			<td>1.5 Design and analysis of ML experiments</td>
 			<td>
+				Class videos 
+				(<a href= "https://drive.google.com/file/d/1fS3b65nWyouvrv1nAULMwiXV8ZLUuAfY/view">part 1</a>)
+				(<a href= "https://drive.google.com/file/d/1rroI1opT9lTSRoFBDW6Gmxpvl3Z75EUc/view?t=35">part 2</a>)<br>
 				[Alp10] Chap 19 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap19-v1-0.pdf">slides</a>) <br>
+				Additional video: Hypothesis testing (<a href= "https://drive.google.com/file/d/1TKRL34XTRSx2d6kFcVyacGb01eSJrdiX/view?t=57">video</a>)
 			</td>
 			<td>
+				<a href= "assign2.pdf">Assignment 2</a>
 			</td>
 		</tr>
 		<tr>
