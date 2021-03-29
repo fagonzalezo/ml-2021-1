@@ -74,8 +74,12 @@ image:
 			<td>Apr 6</td>
 			<td>2.1 Kernel methods basics</td>
 			<td>
+				Class videos 
+				(<a href= "https://drive.google.com/file/d/19cqiLcSJJOYFwDqGr-0HwfkbGfDTEpI5/view?t=10">part 1</a>)
+				(<a href= "https://drive.google.com/file/d/1yHQTsOX_ImwtD2YCocENVaPj05MVU0Gm/view?t=28">part 2</a>)<br>
 				Introduction to kernel methods (<a href= "https://fagonzalezo.github.io/ml-2016-2/kernels.pdf">slides</a>) <br>
 				[Alp14] Chap 13 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap13.pdf">slides</a>)<br>
+				[SC04] Chap 1 and 2<br>
 			</td>
 			<td>
 			</td>
