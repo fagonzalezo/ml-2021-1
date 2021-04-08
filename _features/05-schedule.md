@@ -86,9 +86,12 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 13-20</td>
+			<td>Apr 13</td>
 			<td>2.2 Support vector learning</td>
 			<td>
+				Class videos 
+				(<a href= "https://drive.google.com/file/d/1nKFlXYi90BeCuSSnq929-SooBndQw-k_/view?t=178">part 1</a>)
+				(<a href= "https://drive.google.com/file/d/1pwynrZAKI33-t3QWNzFJNniCNpY_vnjo/view?t=42">part 2</a>)<br>
 				[Alp14] Chap 13 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap13.pdf">slides</a>)<br>
 				<a href="http://axiom.anu.edu.au/%7Edaa/courses/GSAC6017/tekbac_4.pdf">An
 					introduction to ML</a>, Smola <br>
@@ -100,7 +103,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Apr 27</td>
+			<td>Apr 20</td>
 			<td>3.1 Neural network basics </td>
 			<td>
 				[Alp14] Chap 11 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap11.pdf">slides</a>)<br>
@@ -112,7 +115,7 @@ image:
 		</tr>
 		<tr>
 			<td>
-				May 4 
+				Apr 27
 			</td>
 			<td>
 			3.2 Deep learning <br>
@@ -125,7 +128,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 11</td>
+			<td>May 4</td>
 			<td>3.2 Deep learning</td>
 			<td>
 				Deep learning frameworks (<a href= "ML Deep Learning Frameworks.pdf">slides</a>)<br>
@@ -136,7 +139,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 18</td>
+			<td>May 11</td>
 			<td>3.3 Convolutional neural networks</td>
 			<td>
 				CNN for image classification in Keras (<a href= "https://colab.research.google.com/drive/1Wb94CUIJdB1Z-S6mFhxsxB4v6SzmF7sN">Jupyter notebook</a>)<br>
@@ -147,7 +150,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 25</td>
+			<td>May 18</td>
 			<td>3.4 Recurrent neural networks</td>
 			<td>
 				<a href= "https://drive.google.com/file/d/1exxGq3X1mDHqhMMDiA0Q_mhqy0MvpE8U/view?usp=sharing">Class video 4/06/2020</a><br>
