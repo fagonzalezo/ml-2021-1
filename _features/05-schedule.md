@@ -32,8 +32,8 @@ image:
 			<td>Mar 9</td>
 			<td>1.2 Bayesian decision theory</td>
 			<td>
-				Class videos (<a href= "https://drive.google.com/file/d/16WxxLNWdoJ6Elaryr5bVn1zn8L5Ud1u7/view?usp=sharing">part 1</a>)
-				(<a href= "https://drive.google.com/open?id=1q6uubSfsCtuDATCuuIdqWSZCmxwn657f">part 2</a>)<br>
+				Asynchronous Class (<a href= "https://drive.google.com/file/d/16WxxLNWdoJ6Elaryr5bVn1zn8L5Ud1u7/view?usp=sharing">video 1</a>)
+				(<a href= "https://drive.google.com/open?id=1q6uubSfsCtuDATCuuIdqWSZCmxwn657f">video 2</a>)<br>
 				[Alp14] Chap 3 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap3.pdf">slides</a>) (<a href= "https://drive.google.com/file/d/1q5KSTW6WiJjcWMLEOrvRys2WTD7HneWh/view?usp=sharing">annotated slides</a>)<br>
 			</td>
 			<td>
@@ -44,9 +44,9 @@ image:
 			<td>Mar 16</td>
 			<td>1.3 Estimation</td>
 			<td>
-				Class videos 
-				(<a href= "https://drive.google.com/file/d/1q6uubSfsCtuDATCuuIdqWSZCmxwn657f/view?t=2964">part 1</a>)
-				(<a href= "https://drive.google.com/file/d/1myrajgABC6pbuw-CXFH2lIQIBVNVLFfn/view">part 2</a>)<br>
+				Asynchronous Class 
+				(<a href= "https://drive.google.com/file/d/1q6uubSfsCtuDATCuuIdqWSZCmxwn657f/view?t=2964">video 1</a>)
+				(<a href= "https://drive.google.com/file/d/1myrajgABC6pbuw-CXFH2lIQIBVNVLFfn/view">video 2</a>)<br>
 				[Alp14] Chap 4, 5 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap4.pdf">slides</a>)<br>
 				Bias and variance (<a href= "https://colab.research.google.com/drive/12Oo06Ge2ly-9WI3ifj2t9HyZJrioLoy7?usp=sharing">Jupyter notebook</a>)<br>
 			</td>
@@ -60,9 +60,9 @@ image:
 			</td>
 			<td>1.5 Design and analysis of ML experiments</td>
 			<td>
-				Class videos 
-				(<a href= "https://drive.google.com/file/d/1fS3b65nWyouvrv1nAULMwiXV8ZLUuAfY/view?t=46">part 1</a>)
-				(<a href= "https://drive.google.com/file/d/1rroI1opT9lTSRoFBDW6Gmxpvl3Z75EUc/view?t=35">part 2</a>)<br>
+				Asynchronous class 
+				(<a href= "https://drive.google.com/file/d/1fS3b65nWyouvrv1nAULMwiXV8ZLUuAfY/view?t=46">video 1</a>)
+				(<a href= "https://drive.google.com/file/d/1rroI1opT9lTSRoFBDW6Gmxpvl3Z75EUc/view?t=35">video 2</a>)<br>
 				[Alp14] Chap 19 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap19.pdf">slides</a>) <br>
 				Additional video: Hypothesis testing (<a href= "https://drive.google.com/file/d/1TKRL34XTRSx2d6kFcVyacGb01eSJrdiX/view?t=57">video</a>)
 			</td>
@@ -74,9 +74,9 @@ image:
 			<td>Apr 6</td>
 			<td>2.1 Kernel methods basics</td>
 			<td>
-				Class videos 
-				(<a href= "https://drive.google.com/file/d/19cqiLcSJJOYFwDqGr-0HwfkbGfDTEpI5/view?t=10">part 1</a>)
-				(<a href= "https://drive.google.com/file/d/1yHQTsOX_ImwtD2YCocENVaPj05MVU0Gm/view?t=28">part 2</a>)<br>
+				Asynchronous class 
+				(<a href= "https://drive.google.com/file/d/19cqiLcSJJOYFwDqGr-0HwfkbGfDTEpI5/view?t=10">video 1</a>)
+				(<a href= "https://drive.google.com/file/d/1yHQTsOX_ImwtD2YCocENVaPj05MVU0Gm/view?t=28">video 2</a>)<br>
 				Introduction to kernel methods (<a href= "https://fagonzalezo.github.io/ml-2016-2/kernels.pdf">slides</a>) <br>
 				[Alp14] Chap 13 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap13.pdf">slides</a>)<br>
 				[SC04] Chap 1 and 2<br>
@@ -89,9 +89,9 @@ image:
 			<td>Apr 13</td>
 			<td>2.2 Support vector learning</td>
 			<td>
-				Class videos 
-				(<a href= "https://drive.google.com/file/d/1nKFlXYi90BeCuSSnq929-SooBndQw-k_/view?t=178">part 1</a>)
-				(<a href= "https://drive.google.com/file/d/1pwynrZAKI33-t3QWNzFJNniCNpY_vnjo/view?t=42">part 2</a>)<br>
+				Asynchronous class  
+				(<a href= "https://drive.google.com/file/d/1nKFlXYi90BeCuSSnq929-SooBndQw-k_/view?t=178">video 1</a>)
+				(<a href= "https://drive.google.com/file/d/1pwynrZAKI33-t3QWNzFJNniCNpY_vnjo/view?t=42">video 2</a>)<br>
 				[Alp14] Chap 13 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap13.pdf">slides</a>)<br>
 				<a href="http://axiom.anu.edu.au/%7Edaa/courses/GSAC6017/tekbac_4.pdf">An
 					introduction to ML</a>, Smola <br>
@@ -107,8 +107,23 @@ image:
 			<td>Apr 20</td>
 			<td>3.1 Neural network basics </td>
 			<td>
+				Asynchronous class  
+				(<a href= "https://drive.google.com/file/d/1wAR3ApxcYAVF2TmEc6-gVTJIvLKotucr/view?t=100">video</a>)<br>
+				Neural networks, Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
 				[Alp14] Chap 11 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap11.pdf">slides</a>)<br>
 				Quick and dirty introduction to neural networks (<a href= "https://gist.github.com/fagonzalezo/c1f56629890dcf5670aa">Jupyter notebook</a>)<br>
+			</td>
+			<td>
+				<a href= "assign3.pdf">Assignment 3</a>
+			</td>
+		</tr>
+		<tr>
+			<td>Apr 27</td>
+			<td>3.1 Neural network basics </td>
+			<td>
+				Asynchronous class 
+				(<a href= "https://drive.google.com/file/d/1tBJqRYS8UVF__5K29GlE0NYuCFwCPYfJ/view?t=34">video</a>)<br>
+				[Alp14] Chap 11 (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml3e/3e_v1-0/i2ml3e-chap11.pdf">slides</a>)<br>
 				<a href= "https://fagonzalezo.github.io/ml-2018-1/backpropagation.pdf">Backpropagation derivation handout</a>
 			</td>
 			<td>
@@ -116,7 +131,7 @@ image:
 		</tr>
 		<tr>
 			<td>
-				Apr 27
+				May 4
 			</td>
 			<td>
 			3.2 Deep learning <br>
