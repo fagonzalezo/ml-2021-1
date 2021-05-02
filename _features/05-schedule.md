@@ -137,16 +137,9 @@ image:
 			3.2 Deep learning <br>
 			</td>
 			<td>
+				Asynchronous class 
+				(<a href= "https://drive.google.com/file/d/17qsyxm1D4KE9Ztm2nivrpDTvO6xbeV2K/view?t=10">video 1</a>, <a href= "https://drive.google.com/file/d/1DOmG7CDX7vrRM9jZDBL7w0hnzR6nFdaB/view?t=49">video 2</a>)<br>
 				Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
-				<a href= "https://fagonzalezo.github.io/dl_tutorial_upv/">Representation Learning and Deep Learning Tutorial</a> <br>
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>May 4</td>
-			<td>3.2 Deep learning</td>
-			<td>
 				Deep learning frameworks (<a href= "ML Deep Learning Frameworks.pdf">slides</a>)<br>
 				Introduction to TensorFlow (<a href= "https://colab.research.google.com/drive/1cjmAU2v0oDZawN9AAZshz4t6AhqDOBf-">Jupyter notebook</a>)<br>
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
@@ -154,7 +147,6 @@ image:
 			<td>
 			</td>
 		</tr>
-		<tr>
 			<td>May 11</td>
 			<td>3.3 Convolutional neural networks</td>
 			<td>
@@ -169,8 +161,6 @@ image:
 			<td>May 18</td>
 			<td>3.4 Recurrent neural networks</td>
 			<td>
-				<a href= "https://drive.google.com/file/d/1exxGq3X1mDHqhMMDiA0Q_mhqy0MvpE8U/view?usp=sharing">Class video 4/06/2020</a><br>
-				<a href= "https://drive.google.com/file/d/1hU7w32avFaa2BaYymSIwRoty9l5wbiB0/view?usp=sharing">Class video 9/06/2020</a><br>
 				<a href= "https://colab.research.google.com/drive/1bs4_l2ZA-uJYdvrOZpWgb8ItDg1PRKft?usp=sharing">CNN for text classification handout</a> <br>
 				<a href= "https://colab.research.google.com/drive/1DbCuNqQ8wwDAqnWJxrEnyKey_zgWD-5p?usp=sharing">LSTM language model handout</a> <br>
 			</td>
