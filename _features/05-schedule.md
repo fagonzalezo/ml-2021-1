@@ -131,7 +131,7 @@ image:
 		</tr>
 		<tr>
 			<td>
-				May 4
+				May 4-11
 			</td>
 			<td>
 			3.2 Deep learning <br>
@@ -145,9 +145,10 @@ image:
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
 			</td>
 			<td>
+				<a href= "problems5.pdf">Practice problems 5</a>
 			</td>
 		</tr>
-			<td>May 11</td>
+			<td>May 18</td>
 			<td>3.3 Convolutional neural networks</td>
 			<td>
 				CNN for image classification in Keras (<a href= "https://colab.research.google.com/drive/1Wb94CUIJdB1Z-S6mFhxsxB4v6SzmF7sN">Jupyter notebook</a>)<br>
@@ -158,7 +159,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 18</td>
+			<td>May 25</td>
 			<td>3.4 Recurrent neural networks</td>
 			<td>
 				<a href= "https://colab.research.google.com/drive/1bs4_l2ZA-uJYdvrOZpWgb8ItDg1PRKft?usp=sharing">CNN for text classification handout</a> <br>
