@@ -151,6 +151,8 @@ image:
 			<td>May 18</td>
 			<td>3.3 Convolutional neural networks</td>
 			<td>
+				Asynchronous class 
+				(<a href= "https://drive.google.com/file/d/1xH_PHnbOMxCtRaXH6YGCusxk_U6c99rG/view?t=30">video 1</a>, <a href= "https://drive.google.com/file/d/1Ekqk1AALMyIp1zt2Fh8mIwywz6T1BoPR/view?t=180">video 2</a>)<br>
 				CNN for image classification in Keras (<a href= "https://colab.research.google.com/drive/1Wb94CUIJdB1Z-S6mFhxsxB4v6SzmF7sN">Jupyter notebook</a>)<br>
 				<a href= "https://cs.stanford.edu/people/karpathy/convnetjs/">ConvNetJS demos</a><br>
 				<a href= "https://distill.pub/2017/feature-visualization/">Feature visualization</a><br>
@@ -162,6 +164,8 @@ image:
 			<td>May 25</td>
 			<td>3.4 Recurrent neural networks</td>
 			<td>
+				Asynchronous class 
+				(<a href= "https://drive.google.com/file/d/1exxGq3X1mDHqhMMDiA0Q_mhqy0MvpE8U/view?t=184">video 1</a>, <a href= "https://drive.google.com/file/d/1hU7w32avFaa2BaYymSIwRoty9l5wbiB0/view?t=36">video 2</a>)<br>
 				<a href= "https://colab.research.google.com/drive/1bs4_l2ZA-uJYdvrOZpWgb8ItDg1PRKft?usp=sharing">CNN for text classification handout</a> <br>
 				<a href= "https://colab.research.google.com/drive/1DbCuNqQ8wwDAqnWJxrEnyKey_zgWD-5p?usp=sharing">LSTM language model handout</a> <br>
 			</td>
@@ -182,6 +186,8 @@ image:
 			<td>4.1 Bayesian Methods<br>
 			4.2 Monte Carlo inference</td>
 			<td>
+			Asynchronous class 
+			(<a href= "https://drive.google.com/file/d/1CZ7jql9BhWdBHKxI8BCLf1pdHV80rQbr/view?t=13">video 1</a>, <a href= "https://drive.google.com/file/d/19y2F4aS0gNcV0EPfFOMUlrBYu6GHlNrZ/view?t=16">video 2</a>)<br>
 			Radford M. Neal, Bayesian Methods for Machine Learning (<a href= "https://www.cs.toronto.edu/~radford/ftp/bayes-tut.pdf">slides</a>)<br>
 			Beery et al., Markov Chain Monte Carlo for Machine Learning, Adv Topics in ML, Caltech (<a href= "https://taehwanptl.github.io/lectures/lecture_04_20.pdf">slides</a>)<br>
 			Alex Rogozhnikov, <a href= "https://taehwanptl.github.io/lectures/lecture_04_20.pdf">Hamiltonian Monte Carlo explained
@@ -194,6 +200,8 @@ image:
 			<td>Jun 15</td>
 			<td>4.3 Variational Bayes</td>
 			<td>
+			Asynchronous class 
+			(<a href= "https://drive.google.com/file/d/1XO-RjjYEbB2zIvzxc_I9R_ww8RWgBSlI/view?t=75">video</a>)
 			<a href= "https://colab.research.google.com/drive/1xIC_Y5T7IwkJz0SNQyRSlRfDf2fDRvbv">Variational Bayes in Tensorflow</a> <br>
 			<a href= "https://colab.research.google.com/drive/1xX11qB8Ls9t_wuvRYHQp1_v-qBImVkt1">Variational Autoencoders in Tensorflow</a> <br>
 			</td>
