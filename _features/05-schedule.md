@@ -158,6 +158,8 @@ image:
 				<a href= "https://distill.pub/2017/feature-visualization/">Feature visualization</a><br>
 			</td>
 			<td>
+				<a href= "assign4.pdf">Assignment 4</a><br>
+				<a href= "problems6.pdf">Practice problems 6</a>
 			</td>
 		</tr>
 		<tr>
