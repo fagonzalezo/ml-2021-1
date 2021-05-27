@@ -172,6 +172,7 @@ image:
 				<a href= "https://colab.research.google.com/drive/1DbCuNqQ8wwDAqnWJxrEnyKey_zgWD-5p?usp=sharing">LSTM language model handout</a> <br>
 			</td>
 			<td>
+				<a href= "https://www.dropbox.com/request/Vfkdd8yvVzSkFSpoqPRF">Project proposal</a>: 3 persons per group, maximum 2 pages describing problem, objectives and method (01/06/21)
 			</td>
 		</tr>
 		<tr>
