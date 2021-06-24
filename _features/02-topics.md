@@ -43,3 +43,7 @@ image:
 4.2 Monte Carlo inference
 
 4.3 Variational Bayes
+
+5 **Quantum Machine Learning**
+
+5.1 Learning with Density Matrices and Random Fourier Features

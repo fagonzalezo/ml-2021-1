@@ -211,5 +211,17 @@ image:
 			<td>
 			</td>
 		</tr>
+		<tr>
+			<td>Jun 22</td>
+			<td>5.1 Learning with Density Matrices and RFF</td>
+			<td>
+			Synchronous class 
+			(<a href= "https://drive.google.com/file/d/1oIGwoeDEO3PHu2UZ-MlO5Wft33tFkdUd/view?usp=sharing">video 1</a>) <br>
+			<a href= "Learning with Density Matrices.pdf">Learning with DM and RFF slides</a> <br>
+			<a href= "https://colab.research.google.com/drive/1riKlwcu8M_Hrk8X3OoZFo57-O6MkS2zt?usp=sharing">Learning with DM and RFF notebook</a> <br>
+			</td>
+			<td>
+			</td>
+		</tr>
 	</tbody>
 </table>
