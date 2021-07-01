@@ -148,6 +148,7 @@ image:
 				<a href= "problems5.pdf">Practice problems 5</a>
 			</td>
 		</tr>
+		<tr>
 			<td>May 18</td>
 			<td>3.3 Convolutional neural networks</td>
 			<td>
