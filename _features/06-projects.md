@@ -31,6 +31,13 @@ div.desc {
   text-align: center;
 }
 </style>
+<div class="gallery1">
+  <a target="_blank" href="project/ml-project-poster-sfdelgadop.pdf">
+    <img src="project/ml-project-poster-sfdelgadop.jpg" alt="sfdelgadop" width="600" height="400">
+  </a>
+  <div class="desc">TRANSFORMERS & REINFORCEMENT LEARNING ON 2048 GAME (<a href= "https://www.youtube.com/watch?v=CJKKA4SMxdg">video</a>)
+  </div>
+</div>
 
 <div class="gallery1">
   <a target="_blank" href="project/ml-project-poster-diagarciaar-dsvalencias-lahiguarans.pdf">
