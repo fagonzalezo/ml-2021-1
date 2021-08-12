@@ -49,15 +49,6 @@ div.desc {
 </div>
 
 <div class="gallery1">
-  <a target="_blank" href="project/ml-project-poster-diarodriguezmo.pdf">
-    <img src="project/ml-project-poster-diarodriguezmo.pdf.jpg" alt="diarodriguezmo" width="600" height="400">
-  </a>
-  <div class="desc"> Impressionism, Expressionism and Neural Networks
-  (<a href= "https://youtu.be/vRthqGpu3Ig">video</a>)
-  </div>
-</div>
-
-<div class="gallery1">
   <a target="_blank" href="project/ml-project-poster-gaacevedof.pdf">
     <img src="project/ml-project-poster-gaacevedof.pdf.jpg" alt="gaacevedof" width="600" height="400">
   </a>
@@ -121,4 +112,14 @@ div.desc {
   <div class="desc">ANOMALY DETECTION USING KERNEL DENSITY ESTIMATION WITH DENSITY MATRICES (<a href= "https://www.youtube.com/watch?v=AwpQhPBnqxQ">video</a>)
   </div>
 </div>
+
+<div class="gallery1">
+  <a target="_blank" href="project/ml-project-poster-diarodriguezmo.pdf">
+    <img src="project/ml-project-poster-diarodriguezmo.pdf.jpg" alt="diarodriguezmo" width="600" height="400">
+  </a>
+  <div class="desc"> Impressionism, Expressionism and Neural Networks
+  (<a href= "https://youtu.be/vRthqGpu3Ig">video</a>)
+  </div>
+</div>
+
 
